@@ -1,0 +1,26 @@
+﻿@model InputData
+@{ 
+    var result = (Model.ResultDay-10) * 5;
+}
+
+<div class="container style=margin-top:100px">
+    <div class="row">
+        <div class="col-md-3">
+            <h1> Result: </h1>
+        </div>
+        <div class="col-md-9">
+            @if (Model.ResultDay > 10)
+            {
+                <div class="alert alert-danger" role="alert">
+                    Penalty amount:@result @ViewBag.currencySymbol
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-success" role="alert">
+                    You have no debt
+                </div>
+            }
+        </div>
+    </div>
+</div>

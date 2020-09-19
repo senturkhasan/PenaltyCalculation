@@ -1,0 +1,3 @@
+C:\Users\hasan\OneDrive\Masaüstü\entityframework\4-DbContext\EntityFrameworkCore2\EntityFrameworkCore2\obj\Debug\netcoreapp2.0\PenaltyCalculation.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\entityframework\4-DbContext\EntityFrameworkCore2\EntityFrameworkCore2\obj\Debug\netcoreapp2.0\PenaltyCalculation.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\entityframework\4-DbContext\EntityFrameworkCore2\EntityFrameworkCore2\obj\Debug\netcoreapp2.0\PenaltyCalculation.csproj.CoreCompileInputs.cache
